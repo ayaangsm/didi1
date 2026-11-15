@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AcceptSnap</string>
+    <string name="accessibility_service_label">AcceptSnap Screen Text Watcher</string>
+    <string name="accessibility_service_description">Detects "accept" across open apps so screenshots are saved automatically into daily date folders.</string>
+</resources>
